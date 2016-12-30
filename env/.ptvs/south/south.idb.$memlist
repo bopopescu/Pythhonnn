@@ -1,0 +1,17 @@
+__version__
+models
+utils
+modelsinspector
+v2
+logger
+__authors__
+db
+hacks
+introspection_plugins
+exceptions
+tests
+signals
+orm
+creator
+migration
+management
